@@ -112,64 +112,53 @@ Registro: Após acertar, o aluno deve descrever a Tabela Verdade daquela porta (
 .
 4. Níveis de Descoberta (Exemplos Práticos)
 Nível 1 - O Inversor de Shannon: O aluno deve usar uma porta NOT para acender a luz da saída mantendo o interruptor de entrada desligado
-.
+___
 Nível 2 - O Cofre de Segurança: O aluno precisa acender a luz usando duas entradas. Ele deve testar a porta AND (ambos ligados) e a porta OR (qualquer um ligado) para entender a diferença prática entre "E" e "OU"
-.
+___
 Nível 3 - O Circuito Aritmético: Usando a porta XOR, o aluno descobre como o computador faz somas binárias simples (0+1=1, mas 1+1 gera um "vai um", resultando em 0 na unidade atual)
-.
+___
 Nível 4 - O Alarme Invertido (Porta NAND)
 A Peça: Formato em "D" (como a AND), mas com uma pequena esfera na ponta (indicando inversão) e textura áspera na saída
-.
 O Desafio: "Shannon precisa de um sistema de segurança. A luz de saída deve permanecer em 1 (acesa) quase o tempo todo. Ela só deve apagar (0) se ambos os interruptores de entrada forem ligados (1)."
 Objetivo Didático: Aprender que a NAND é o oposto da AND; ela só resulta em 0 se todas as entradas forem 1
-.
+___
 Nível 5 - O Silêncio Total (Porta NOR)
 A Peça: Formato de ponta de flecha (como a OR), com uma esfera na ponta e textura ondulada
-.
 O Desafio: "O laboratório exige silêncio. A saída deve ser 1 apenas quando nenhum interruptor estiver ligado. Se qualquer um (ou ambos) for ligado, a saída deve ser 0."
 Objetivo Didático: Compreender a porta NOR, onde a saída é 1 apenas se todas as entradas forem 0
-.
+___
 Nível 6 - O Detector de Igualdade (Porta XNOR)
 A Peça: Formato de flecha dupla com uma esfera na ponta e textura aveludada
-.
 O Desafio: "Shannon quer comparar dois sinais. A saída deve vibrar (1) se os dois interruptores estiverem na mesma posição (ambos para cima ou ambos para baixo). Se estiverem diferentes, a saída deve ser 0."
 Objetivo Didático: Entender a porta XNOR (OU Exclusivo Negado), que detecta coincidência de níveis lógicos
-.
+___
 Nível 7 - A Transmissão de Claude (Circuito Combinacional)
 O Desafio: "Monte um circuito usando duas peças: primeiro uma porta NOT em um interruptor, e depois conecte o resultado desse interruptor e um segundo interruptor a uma porta AND."
 Ação: O aluno deve seguir o caminho tátil para conectar as fendas em série
-.
 Objetivo Didático: Introduzir a lógica combinacional, onde a saída final depende de uma expressão booleana complexa (ex: Sa 
 ı
 ˊ
  da=NOT A⋅B)
-.
+___
 Nível 8 - O Mistério da Soma Binária (Meio-Somador)
 O Desafio: "Para somar 1 + 1 em binário, o resultado é 0 e o 'vai um' (carry) é 1. Use uma porta XOR para o resultado da soma e uma porta AND para o 'vai um'."
-.
 Feedback: O aluno sentirá a vibração em duas saídas diferentes no tabuleiro: a saída da XOR (Soma) e a da AND (Transporte)
-.
 Objetivo Didático: Aplicar portas lógicas em operações aritméticas reais, base da Unidade Lógica e Aritmética (ULA)
-.
+___
 Nível 9 - O Teorema do Atalho (De Morgan)
 O Desafio: "Shannon descobriu que uma porta NAND (AND com inversor na saída) faz o mesmo que uma porta OR com as entradas invertidas. Teste as duas montagens e veja se o som de sucesso é o mesmo."
-.
 Objetivo Didático: Praticar o Teorema de De Morgan, essencial para a simplificação de circuitos integrados
-.
 Nível 10 - O Enigma Final: O Circuito Secreto
 O Desafio: O professor entrega uma Tabela Verdade tátil (uma grade onde o aluno sente as combinações de 0 e 1 e o resultado desejado). O aluno deve "deduzir" qual peça encaixar para que o tabuleiro se comporte exatamente como a tabela
-.
 Objetivo Didático: Consolidar a relação entre a Álgebra Booleana, a tabela verdade e o hardware físico
+___
 Principais Dificuldades:
 Coerência de resultados facilitadores e didáticos também criatividade para novos exercícios para iniciantes devido o conteúdo avançar de forma gradual.
 Resumos dos conteúdos:
 Sistemas de Numeração e Conversão
 Explora as bases decimal (10), binária (2), octal (8) e hexadecimal (16), fundamentais para a representação de dados em circuitos e endereçamentos
-.
 Detalha métodos de conversão entre bases através de divisões sucessivas, soma de pesos posicionais e agrupamento de bits (3 bits para octal e 4 para hexadecimal)
-.
 Apresenta códigos digitais específicos como o BCD (decimal codificado em binário), o Código Gray (mudança de apenas um bit) e o padrão ASCII para caracteres
-.
 Aritmética Binária
 Abrange as operações fundamentais (soma, subtração, multiplicação e divisão) realizadas internamente pelos computadores
 .
