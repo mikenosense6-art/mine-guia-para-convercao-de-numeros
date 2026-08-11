@@ -23,13 +23,13 @@ Resposta do NotebookLM:
 Olá, futuro especialista! Como seu professor de sistemas digitais, hoje vamos desvendar o "idioma" que os computadores falam. Se você nunca ouviu falar disso, não se preocupe: vamos transformar códigos complexos em algo tão simples quanto acender uma lâmpada.
 1. A Origem e a Relevância: Por que não usamos apenas o Decimal?
 Nós, humanos, usamos o sistema Decimal (base 10) porque temos dez dedos nas mãos, o que facilitou a contagem desde a antiguidade
-. No entanto, para uma máquina, contar até dez é difícil.
+No entanto, para uma máquina, contar até dez é difícil.
 A Analogia da Lâmpada: Imagine um computador como uma sala cheia de bilhões de interruptores de luz. Um interruptor só tem dois estados: ligado ou desligado
 ___
 Desligado representamos como 0.
 Ligado representamos como 1.
 Essa é a origem do Sistema Binário (base 2)
-. Ele é a base de toda a tecnologia digital moderna, desde o seu smartphone até supercomputadores, porque é fisicamente mais simples e confiável construir circuitos que entendam apenas "sim" ou "não" (tensão alta ou baixa)
+Ele é a base de toda a tecnologia digital moderna, desde o seu smartphone até supercomputadores, porque é fisicamente mais simples e confiável construir circuitos que entendam apenas "sim" ou "não" (tensão alta ou baixa)
 ___
 2. O Problema do Binário e o surgimento do Octal e Hexadecimal
 O problema é que os números binários ficam gigantescos muito rápido. Por exemplo, o número 250 em decimal vira 11111010 em binário. Para facilitar a vida dos programadores e engenheiros, surgiram o Octal (base 8) e o Hexadecimal (base 16)
