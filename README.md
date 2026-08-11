@@ -187,16 +187,20 @@ ___
 Expõe aplicações avançadas como registradores de deslocamento, contadores digitais e sistemas de transmissão de dados (serial e paralela)
 Principais conceitos aprendidos:
 Portas logicas:NOT,AND,OR,XOR,XAND,XNOR,XNAND,NAND,NOR.
+___
 Números:Binarios(1,0),Octais(0 a 7),Hexadecimais(0 a F).
+___
 Memória:Flip-flops e Larches.
+___
 Álgebra Booleana.
+___
 Prompts reutilizáveis:
-Faça um resumo descritivo sobre álgebra booleana de forma profissional como um professor especialista nessa área
+1.Faça um resumo descritivo sobre álgebra booleana de forma profissional como um professor especialista nessa área
 ___
 Depois do resumo faça uma lista de exercícios sobre o assunto.
 
 
-Faça uma lista de exercícios de 40 questões sobre o assunto de conversão de números binário,hexadecimal e octal
+2.Faça uma lista de exercícios de 40 questões sobre o assunto de conversão de números binário,hexadecimal e octal
 ___
 faça a lista com níveis de dificuldade (10 questões fáceis,15 médias e 15 difíceis),intercalando as dificuldades   
 ___
@@ -204,7 +208,7 @@ Lembre-se que é um professor especializado em sistemas digitais.
 
 
 
-faça uma lista que auxilie lembrar e testar meu celebro sobre o conhecimento sobre os conceitos circuitos sequenciais e Memória e aplicações
+3.faça uma lista que auxilie lembrar e testar meu celebro sobre o conhecimento sobre os conceitos circuitos sequenciais e Memória e aplicações
 ___
 Lembre-se que está lista tem que ter conceitos e imagens sobre o assunto
 ___
