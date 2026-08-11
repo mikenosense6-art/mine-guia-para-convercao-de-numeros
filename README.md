@@ -99,6 +99,24 @@ Porta AND (A Porta "E"): Formato em "D" com textura lisa. Só deixa a "energia" 
 Porta OR (A Porta "OU"): Formato de ponta de flecha com textura ondulada. A energia passa se pelo menos uma entrada for 1
 .
 Porta XOR (OU Exclusivo): Formato de flecha dupla. A energia só passa se as entradas forem diferentes entre si
+3. Regras Claras do Jogo
+Objetivo: Ativar o "Sinal de Descoberta" (uma combinação de Som, Luz e Vibração) resolvendo os desafios lógicos do tabuleiro.
+Exploração: O jogador deve tocar as peças para identificar qual porta lógica tem em mãos pela textura e formato.
+O Desafio: O professor dita uma "Mensagem Secreta" (Exemplo: "Preciso que a saída seja 1, mas só tenho um interruptor ligado").
+Montagem: O jogador deve encaixar a porta lógica correta no caminho entre os interruptores e a saída.
+Verificação (Feedback Multimodal):
+Sucesso (Nível 1): O tabuleiro emite um som agudo, uma luz verde brilha e a peça vibra.
+Falha (Nível 0): O tabuleiro emite um som grave (ou silêncio), uma luz vermelha acende e não há vibração
+.
+Registro: Após acertar, o aluno deve descrever a Tabela Verdade daquela porta (a lista de todas as combinações possíveis e seus resultados)
+.
+4. Níveis de Descoberta (Exemplos Práticos)
+Nível 1 - O Inversor de Shannon: O aluno deve usar uma porta NOT para acender a luz da saída mantendo o interruptor de entrada desligado
+.
+Nível 2 - O Cofre de Segurança: O aluno precisa acender a luz usando duas entradas. Ele deve testar a porta AND (ambos ligados) e a porta OR (qualquer um ligado) para entender a diferença prática entre "E" e "OU"
+.
+Nível 3 - O Circuito Aritmético: Usando a porta XOR, o aluno descobre como o computador faz somas binárias simples (0+1=1, mas 1+1 gera um "vai um", resultando em 0 na unidade atual)
+.
 Nível 4 - O Alarme Invertido (Porta NAND)
 A Peça: Formato em "D" (como a AND), mas com uma pequena esfera na ponta (indicando inversão) e textura áspera na saída
 .
