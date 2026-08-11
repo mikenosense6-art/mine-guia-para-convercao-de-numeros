@@ -12,11 +12,11 @@ https://embarcados.com.br/portas-logicas/
 
 #Perguntas estratégicas para um proveito maior:
 apresente o conteúdo básico sobre conversão de Binário,Hexadecimal e Octal como um professor especializado em sistemas digitais mostrando a sua origem e relevância e onde é utilizado atualmente.
----
+___
 Faça de forma que um aluno que não saiba nada tenha compreensão utilizando analogias sobre este conteúdo de conversão de números Binários,Hexadecimais e Octais
----
+___
 Depois de apresentar o conteúdo crie uma lista de exercícios com base no conteudo que foi apresentado
----
+___
 Certifique-se de a lista de exercícios ter 10 questões sobre o assunto dee conversão de numero binario,hexadecimal e octal.
 Resposta do NotebookLM:
 {
@@ -70,13 +70,13 @@ Desafios de Base Mista 9.  Converta o número decimal 10 para hexadecimal e para
 Dica do Professor: Sempre comece agrupando os números da direita para a esquerda para não errar a posição dos pesos!
 }
 faça um jogo interativo de forma didática que ajude um aluno com deficiência visual aprender de forma prática portas lógicas faça isso sendo um profissional especializado em sistemas digitais e apoio a deficientes
----
+___
 faça o jogo tendo regras que ajude pessoas com outras deficiências além da visual e para as pessoas que não possuem deficiência para que também possam aproveitar essa forma de estudos
----
+___
 Certifique-se de fazer o jogo com regras bem clara para que não tenha nenhuma dúvida na hora da jogatina
----
+___
 faça o jogo com uma tematica do descobrimento da ciência no século XX ainda tendo todos os conceitos atuais sobre portas lógicas
----
+___
 Certifique-se que os desafios que pareçam lista de exercicios
 Resposta do NotebookLM:
 Olá! Como especialista em sistemas digitais e no desenvolvimento de tecnologias assistivas, preparei um jogo que utiliza o Design Universal para a Aprendizagem. O objetivo é que o aluno aprenda que as portas lógicas são os blocos fundamentais que processam informações baseadas em níveis lógicos (0 e 1)
@@ -186,8 +186,10 @@ Memória:Flip-flops e Larches.
 Álgebra Booleana.
 Prompts reutilizáveis:
 Faça um resumo descritivo sobre álgebra booleana de forma profissional como um professor especialista nessa área
----
+___
 Depois do resumo faça uma lista de exercícios sobre o assunto.
+
+
 
 Faça uma lista de exercícios de 40 questões sobre o assunto de conversão de números binário,hexadecimal e octal
 ___
@@ -195,7 +197,9 @@ faça a lista com níveis de dificuldade (10 questões fáceis,15 médias e 15 d
 ___
 Lembre-se que é um professor especializado em sistemas digitais.
 
-faça uma lista que auxilie lembrar e testar o conhecimento sobre circuitos sequenciais e Memória e aplicações
+
+
+faça uma lista que auxilie lembrar e testar meu celebro sobre o conhecimento sobre circuitos sequenciais e Memória e aplicações
 ___
 Lembre-se que está lista tem que ter conceitos e imagens sobre o assunto
 ___
