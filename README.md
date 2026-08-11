@@ -195,6 +195,7 @@ ___
 Álgebra Booleana.
 ___
 Prompts reutilizáveis:
+___
 1.Faça um resumo descritivo sobre álgebra booleana de forma profissional como um professor especialista nessa área
 ___
 Depois do resumo faça uma lista de exercícios sobre o assunto.
